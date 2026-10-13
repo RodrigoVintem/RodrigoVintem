@@ -20,7 +20,7 @@ I like building things that have to work under pressure: distributed protocols, 
 
 ### Tech I use most
 
-C · C++ · Java · Python · TypeScript · Kotlin · C# / Unity
+C · C++ · Java · Python · TypeScript · C# / Unity
 
 <!-- TODO: add your real links, then delete this comment
 <p align="center"><samp>
