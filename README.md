@@ -12,7 +12,7 @@ I like building things that have to work under pressure: distributed protocols, 
 | Event | Project | Result |
 |---|---|---|
 | Junction Lisbon 2026 | [ShelfOS](https://github.com/franciscogfsm/ShelfOS): shelf stock and compliance from ceiling cameras | 🥉 3rd / ~150 |
-| Arquivo.pt × Expresso challenge, with NOVA FCT (2026) | [DECEPTIO](https://github.com/RodrigoVintem/ArquivoPT): RAG pipeline tracking how a story changed across the Portuguese web archive. [Demo](https://deceptio.streamlit.app) | Participant |
+| Arquivo.pt Challenge | [DECEPTIO](https://github.com/RodrigoVintem/ArquivoPT): RAG pipeline tracking how a story changed across time with the Portuguese web archive. [Demo](https://deceptio.streamlit.app) | Participant |
 <!-- TODO: after the game-jam repos have a README and GIF, add these rows:
 | GMTK Game Jam 2024 | [Game name](https://github.com/RodrigoVintem/GMTK_V3): one-line description | Submitted |
 | Kenney Jam 2024 | [Game name](https://github.com/RodrigoVintem/KenneyJamRepo): one-line description | Submitted |
